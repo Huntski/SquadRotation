@@ -1,0 +1,259 @@
+{
+    "layers": [{
+            "name": "Belaya",
+            "layers": [
+                "AAS v1",
+                "Invasion v1",
+                "Invasion v2",
+                "Invasion v3",
+                "RAAS v1",
+                "RAAS v2",
+                "RAAS v3",
+                "Skirmish v1",
+                "TC v1"
+            ]
+        },
+        {
+            "name": "Skorpo",
+            "layers": [
+                "AAS v1",
+                "Invasion v1",
+                "Invasion v2",
+                "RAAS v1",
+                "RAAS v2",
+                "RAAS v3",
+                "RAAS v4",
+                "Skirmish v1",
+                "TC v1",
+                "TC v2",
+                "TC v3"
+            ]
+        },
+        {
+            "name": "Fool's Road",
+            "layers": [
+                "AAS v1",
+                "AAS v2",
+                "Destruction v1",
+                "Invasion v1",
+                "RAAS v1",
+                "RAAS v2",
+                "RAAS v3",
+                "Skirmish v1",
+                "Skirmish v2",
+                "TC v1"
+            ]
+        },
+        {
+            "name": "Gorodok",
+            "layers": [
+                "AAS v1",
+                "AAS v2",
+                "Destruction v1",
+                "Insurgency v1",
+                "Invasion v1",
+                "Invasion v2",
+                "RAAS v1",
+                "RAAS v2",
+                "RAAS v3",
+                "RAAS v4",
+                "RAAS v5",
+                "Skirmish v1",
+                "TC v1",
+                "CAF TC v1",
+                "CAF Invasion v1",
+                "CAF RAAS v1",
+                "CAF RAAS v2"
+            ]
+        },
+        {
+            "name": "Narva",
+            "layers": [
+                "AAS v1",
+                "AAS v2",
+                "AAS v3",
+                "Destruction v1",
+                "Invasion v1",
+                "Invasion v2",
+                "RAAS v1",
+                "Skirmish v1",
+                "TC v1",
+                "TC v2",
+                "CAF RAAS v1"
+            ]
+        },
+        {
+            "name": "Yehorivka",
+            "layers": [
+                "AAS v1",
+                "AAS v2",
+                "Destruction v1",
+                "Invasion v1",
+                "Invasion v2",
+                "RAAS v1",
+                "RAAS v2",
+                "RAAS v3",
+                "RAAS v4",
+                "RAAS v5",
+                "Skirmish v1",
+                "Skirmish v2",
+                "Skirmish v3",
+                "TC v1",
+                "TC v2",
+                "CAF Invasion v1",
+                "CAF RAAS v1",
+                "CAF TC v1"
+            ]
+        },
+        {
+            "name": "Chora",
+            "layers": [
+                "AAS v1",
+                "AAS v2",
+                "Insurgency v1",
+                "Invasion v1",
+                "Invasion v2",
+                "RAAS v1",
+                "RAAS v2",
+                "Skirmish v1",
+                "TC v1"
+            ]
+        },
+        {
+            "name": "Tallil Outskirts",
+            "layers": [
+                "AAS v1",
+                "Invasion v1",
+                "Invasion v2",
+                "Invasion v3",
+                "RAAS v1",
+                "RAAS v2",
+                "RAAS v3",
+                "RAAS v4",
+                "Skirmish v1",
+                "Skirmish v2",
+                "Skirmish v3",
+                "Tanks v1",
+                "Tanks v2",
+                "TC v1",
+                "CAF RAAS v1"
+            ]
+        },
+        {
+            "name": "Kamdesh Highlands",
+            "layers": [
+                "AAS v1",
+                "Insurgency v1",
+                "Insurgency v2",
+                "Invasion v1",
+                "Invasion v2",
+                "Invasion v3",
+                "RAAS v1",
+                "RAAS v2",
+                "RAAS v3",
+                "RAAS v4",
+                "Skirmish v1",
+                "TC v1",
+                "TC v2",
+                "CAF Invasion v1",
+                "CAF RAAS v1",
+                "CAF TC v1"
+            ]
+        },
+        {
+            "name": "Kohat Toi",
+            "layers": [
+                "AAS v1",
+                "Insurgency v1",
+                "Invasion v1",
+                "Invasion v2",
+                "RAAS v1",
+                "RAAS v2",
+                "RAAS v3",
+                "RAAS v4",
+                "Skirmish v1",
+                "TC v1",
+                "CAF Invasion v1"
+            ]
+        },
+        {
+            "name": "Loger Vallet",
+            "layers": [
+                "AAS v1",
+                "Insurgency v1",
+                "Invasion v1",
+                "Invasion v2",
+                "RAAS v1",
+                "RAAS v2",
+                "RAAS v3",
+                "RAAS v4",
+                "Skirmish v1",
+                "TC v1"
+            ]
+        },
+        {
+            "name": "Sumari Bala",
+            "layers": [
+                "AAS v1",
+                "Insurgency v1",
+                "Invasion v1",
+                "RAAS v1",
+                "RAAS v2",
+                "Skirmish v1",
+                "TC v1"
+            ]
+        },
+        {
+            "name": "Al Basrah",
+            "layers": [
+                "AAS v1",
+                "Insurgency v1",
+                "Invasion v1",
+                "Invasion v2",
+                "RAAS v1",
+                "Skirmish v1",
+                "Skirmish v2",
+                "TC v1",
+                "TC v2"
+            ]
+        },
+        {
+            "name": "Al Basrah",
+            "layers": [
+                "AAS v1",
+                "Invasion v1",
+                "RAAS v1",
+                "Skirmish v1",
+                "TC v1",
+                "TC v2"
+            ]
+        },
+        {
+            "name": "Nanisivik",
+            "layers": [
+                "Invasion v1",
+                "RAAS v1",
+                "RAAS v2",
+                "CAF Invasion v1",
+                "CAF RAAS v1"
+            ]
+        },
+        {
+            "name": "Manic",
+            "layers": [
+                "RAAS v1",
+                "TC v1",
+                "Skirmish v1",
+                "CAF Invasion v1",
+                "CAF Invasion v2",
+                "CAF RAAS v1",
+                "CAF RAAS v12",
+                "CAF RAAS v3",
+                "CAF RAAS v4",
+                "CAF Skirmish v1",
+                "CAF Skirmish v2",
+                "CAF TC v1"
+            ]
+        }
+    ]
+}
