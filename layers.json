@@ -1,258 +1,257 @@
 {
-    "layers": [{
+    "maps": [{
             "name": "Belaya",
             "layers": [
-                "AAS v1",
-                "Invasion v1",
-                "Invasion v2",
-                "Invasion v3",
-                "RAAS v1",
-                "RAAS v2",
-                "RAAS v3",
-                "Skirmish v1",
-                "TC v1"
+                "Belaya AAS v1",
+                "Belaya Invasion v1",
+                "Belaya Invasion v2",
+                "Belaya Invasion v3",
+                "Belaya RAAS v1",
+                "Belaya RAAS v2",
+                "Belaya RAAS v3",
+                "Belaya Skirmish v1",
+                "Belaya TC v1"
             ]
         },
         {
             "name": "Skorpo",
             "layers": [
-                "AAS v1",
-                "Invasion v1",
-                "Invasion v2",
-                "RAAS v1",
-                "RAAS v2",
-                "RAAS v3",
-                "RAAS v4",
-                "Skirmish v1",
-                "TC v1",
-                "TC v2",
-                "TC v3"
+                "Skorpo AAS v1",
+                "Skorpo Invasion v1",
+                "Skorpo Invasion v2",
+                "Skorpo RAAS v1",
+                "Skorpo RAAS v2",
+                "Skorpo RAAS v3",
+                "Skorpo RAAS v4",
+                "Skorpo Skirmish v1",
+                "Skorpo TC v1",
+                "Skorpo TC v2",
+                "Skorpo TC v3"
             ]
         },
         {
             "name": "Fool's Road",
             "layers": [
-                "AAS v1",
-                "AAS v2",
-                "Destruction v1",
-                "Invasion v1",
-                "RAAS v1",
-                "RAAS v2",
-                "RAAS v3",
-                "Skirmish v1",
-                "Skirmish v2",
-                "TC v1"
+                "Fool's Road AAS v1",
+                "Fool's Road AAS v2",
+                "Fool's Road Destruction v1",
+                "Fool's Road Invasion v1",
+                "Fool's Road RAAS v1",
+                "Fool's Road RAAS v2",
+                "Fool's Road RAAS v3",
+                "Fool's Road Skirmish v1",
+                "Fool's Road Skirmish v2",
+                "Fool's Road TC v1"
             ]
         },
         {
             "name": "Gorodok",
             "layers": [
-                "AAS v1",
-                "AAS v2",
-                "Destruction v1",
-                "Insurgency v1",
-                "Invasion v1",
-                "Invasion v2",
-                "RAAS v1",
-                "RAAS v2",
-                "RAAS v3",
-                "RAAS v4",
-                "RAAS v5",
-                "Skirmish v1",
-                "TC v1",
-                "CAF TC v1",
-                "CAF Invasion v1",
-                "CAF RAAS v1",
-                "CAF RAAS v2"
+                "Gorodok AAS v1",
+                "Gorodok AAS v2",
+                "Gorodok Destruction v1",
+                "Gorodok Insurgency v1",
+                "Gorodok Invasion v1",
+                "Gorodok Invasion v2",
+                "Gorodok RAAS v1",
+                "Gorodok RAAS v2",
+                "Gorodok RAAS v3",
+                "Gorodok RAAS v4",
+                "Gorodok RAAS v5",
+                "Gorodok Skirmish v1",
+                "Gorodok TC v1",
+                "CAF Gorodok TC v1",
+                "CAF Gorodok Invasion v1",
+                "CAF Gorodok RAAS v1",
+                "CAF Gorodok RAAS v2"
             ]
         },
         {
             "name": "Narva",
             "layers": [
-                "AAS v1",
-                "AAS v2",
-                "AAS v3",
-                "Destruction v1",
-                "Invasion v1",
-                "Invasion v2",
-                "RAAS v1",
-                "Skirmish v1",
-                "TC v1",
-                "TC v2",
-                "CAF RAAS v1"
+                "Narva AAS v1",
+                "Narva AAS v2",
+                "Narva AAS v3",
+                "Narva Destruction v1",
+                "Narva Invasion v1",
+                "Narva Invasion v2",
+                "Narva RAAS v1",
+                "Narva Skirmish v1",
+                "Narva TC v1",
+                "Narva TC v2",
+                "CAF Narva RAAS v1"
             ]
         },
         {
             "name": "Yehorivka",
             "layers": [
-                "AAS v1",
-                "AAS v2",
-                "Destruction v1",
-                "Invasion v1",
-                "Invasion v2",
-                "RAAS v1",
-                "RAAS v2",
-                "RAAS v3",
-                "RAAS v4",
-                "RAAS v5",
-                "Skirmish v1",
-                "Skirmish v2",
-                "Skirmish v3",
-                "TC v1",
-                "TC v2",
-                "CAF Invasion v1",
-                "CAF RAAS v1",
-                "CAF TC v1"
+                "Yehorivka AAS v1",
+                "Yehorivka AAS v2",
+                "Yehorivka Destruction v1",
+                "Yehorivka Invasion v1",
+                "Yehorivka Invasion v2",
+                "Yehorivka RAAS v1",
+                "Yehorivka RAAS v2",
+                "Yehorivka RAAS v3",
+                "Yehorivka RAAS v4",
+                "Yehorivka RAAS v5",
+                "Yehorivka Skirmish v1",
+                "Yehorivka Skirmish v2",
+                "Yehorivka Skirmish v3",
+                "Yehorivka TC v1",
+                "Yehorivka TC v2",
+                "CAF Yehorivka Invasion v1",
+                "CAF Yehorivka RAAS v1",
+                "CAF Yehorivka TC v1"
             ]
         },
         {
             "name": "Chora",
             "layers": [
-                "AAS v1",
-                "AAS v2",
-                "Insurgency v1",
-                "Invasion v1",
-                "Invasion v2",
-                "RAAS v1",
-                "RAAS v2",
-                "Skirmish v1",
-                "TC v1"
+                "Chora AAS v1",
+                "Chora AAS v2",
+                "Chora Insurgency v1",
+                "Chora Invasion v1",
+                "Chora Invasion v2",
+                "Chora RAAS v1",
+                "Chora RAAS v2",
+                "Chora Skirmish v1",
+                "Chora TC v1"
             ]
         },
         {
             "name": "Tallil Outskirts",
             "layers": [
-                "AAS v1",
-                "Invasion v1",
-                "Invasion v2",
-                "Invasion v3",
-                "RAAS v1",
-                "RAAS v2",
-                "RAAS v3",
-                "RAAS v4",
-                "Skirmish v1",
-                "Skirmish v2",
-                "Skirmish v3",
-                "Tanks v1",
-                "Tanks v2",
-                "TC v1",
-                "CAF RAAS v1"
+                "Tallil Outskirts AAS v1",
+                "Tallil Outskirts Invasion v1",
+                "Tallil Outskirts Invasion v2",
+                "Tallil Outskirts Invasion v3",
+                "Tallil Outskirts RAAS v1",
+                "Tallil Outskirts RAAS v2",
+                "Tallil Outskirts RAAS v3",
+                "Tallil Outskirts RAAS v4",
+                "Tallil Outskirts Skirmish v1",
+                "Tallil OutskirtsSkirmish v2",
+                "Tallil Outskirts Skirmish v3",
+                "Tallil Outskirts Tanks v1",
+                "Tallil Outskirts Tanks v2",
+                "Tallil OutskirtsTC v1",
+                "CAF Tallil Outskirts RAAS v1"
             ]
         },
         {
-            "name": "Kamdesh Highlands",
+            "name": "Kamdesh",
             "layers": [
-                "AAS v1",
-                "Insurgency v1",
-                "Insurgency v2",
-                "Invasion v1",
-                "Invasion v2",
-                "Invasion v3",
-                "RAAS v1",
-                "RAAS v2",
-                "RAAS v3",
-                "RAAS v4",
-                "Skirmish v1",
-                "TC v1",
-                "TC v2",
-                "CAF Invasion v1",
-                "CAF RAAS v1",
-                "CAF TC v1"
+                "Kamdesh AAS v1",
+                "Kamdesh Insurgency v1",
+                "Kamdesh Insurgency v2",
+                "Kamdesh Invasion v1",
+                "Kamdesh Invasion v2",
+                "Kamdesh Invasion v3",
+                "Kamdesh RAAS v1",
+                "Kamdesh RAAS v2",
+                "Kamdesh RAAS v3",
+                "Kamdesh RAAS v4",
+                "Kamdesh Skirmish v1",
+                "Kamdesh TC v1",
+                "Kamdesh TC v2",
+                "CAF Kamdesh Invasion v1",
+                "CAF Kamdesh RAAS v1",
+                "CAF Kamdesh TC v1"
             ]
         },
         {
-            "name": "Kohat Toi",
+            "name": "Kohat",
             "layers": [
-                "AAS v1",
-                "Insurgency v1",
-                "Invasion v1",
-                "Invasion v2",
-                "RAAS v1",
-                "RAAS v2",
-                "RAAS v3",
-                "RAAS v4",
-                "Skirmish v1",
-                "TC v1",
-                "CAF Invasion v1"
+                "Kohat AAS v1",
+                "Kohat Insurgency v1",
+                "Kohat Invasion v1",
+                "Kohat Invasion v2",
+                "Kohat RAAS v1",
+                "Kohat RAAS v2",
+                "Kohat RAAS v3",
+                "Kohat RAAS v4",
+                "Kohat Skirmish v1",
+                "Kohat TC v1",
+                "CAF Kohat Invasion v1"
             ]
         },
         {
-            "name": "Loger Vallet",
+            "name": "Logar Valley",
             "layers": [
-                "AAS v1",
-                "Insurgency v1",
-                "Invasion v1",
-                "Invasion v2",
-                "RAAS v1",
-                "RAAS v2",
-                "RAAS v3",
-                "RAAS v4",
-                "Skirmish v1",
-                "TC v1"
+                "Logar Valley AAS v1",
+                "Logar Valley Insurgency v1",
+                "Logar Valley Invasion v1",
+                "Logar Valley Invasion v2",
+                "Logar Valley RAAS v1",
+                "Logar Valley RAAS v2",
+                "Logar Valley RAAS v3",
+                "Logar Valley RAAS v4",
+                "Logar Valley Skirmish v1",
+                "Logar Valley TC v1"
             ]
         },
         {
-            "name": "Sumari Bala",
+            "name": "Sumari",
             "layers": [
-                "AAS v1",
-                "Insurgency v1",
-                "Invasion v1",
-                "RAAS v1",
-                "RAAS v2",
-                "Skirmish v1",
-                "TC v1"
-            ]
-        },
-        {
-            "name": "Al Basrah",
-            "layers": [
-                "AAS v1",
-                "Insurgency v1",
-                "Invasion v1",
-                "Invasion v2",
-                "RAAS v1",
-                "Skirmish v1",
-                "Skirmish v2",
-                "TC v1",
-                "TC v2"
+                "Sumari AAS v1",
+                "Sumari Insurgency v1",
+                "Sumari Invasion v1",
+                "Sumari RAAS v1",
+                "Sumari RAAS v2",
+                "Sumari Skirmish v1",
+                "Sumari TC v1"
             ]
         },
         {
             "name": "Al Basrah",
             "layers": [
-                "AAS v1",
-                "Invasion v1",
-                "RAAS v1",
-                "Skirmish v1",
-                "TC v1",
-                "TC v2"
+                "Al Basrah AAS v1",
+                "Al Basrah Insurgency v1",
+                "Al Basrah Invasion v1",
+                "Al Basrah Invasion v2",
+                "Al Basrah RAAS v1",
+                "Al Basrah Skirmish v1",
+                "Al Basrah Skirmish v2",
+                "Al Basrah TC v1",
+                "Al Basrah TC v2"
+            ]
+        },
+        {
+            "name": "Mestia",
+            "layers": [
+                "Mestia AAS v1",
+                "Mestia Invasion v1",
+                "Mestia RAAS v1",
+                "Mestia Skirmish v1",
+                "Mestia TC v1"
             ]
         },
         {
             "name": "Nanisivik",
             "layers": [
-                "Invasion v1",
-                "RAAS v1",
-                "RAAS v2",
-                "CAF Invasion v1",
-                "CAF RAAS v1"
+                "Nanisivik Invasion v1",
+                "Nanisivik RAAS v1",
+                "Nanisivik RAAS v2",
+                "CAF Nanisivik Invasion v1",
+                "CAF Nanisivik RAAS v1"
             ]
         },
         {
             "name": "Manic",
             "layers": [
-                "RAAS v1",
-                "TC v1",
-                "Skirmish v1",
-                "CAF Invasion v1",
-                "CAF Invasion v2",
-                "CAF RAAS v1",
-                "CAF RAAS v12",
-                "CAF RAAS v3",
-                "CAF RAAS v4",
-                "CAF Skirmish v1",
-                "CAF Skirmish v2",
-                "CAF TC v1"
+                "Manic RAAS v1",
+                "Manic TC v1",
+                "Manic Skirmish v1",
+                "CAF Manic Invasion v1",
+                "CAF Manic Invasion v2",
+                "CAF Manic RAAS v1",
+                "CAF Manic RAAS v12",
+                "CAF Manic RAAS v3",
+                "CAF Manic RAAS v4",
+                "CAF Manic Skirmish v1",
+                "CAF Manic Skirmish v2",
+                "CAF Manic TC v1"
             ]
         }
     ]
